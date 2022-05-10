@@ -9,7 +9,7 @@
 ## SSL
 | Source | Link |
 | -- | -- |
-| Self Supervised for Speech Processing | [Slides](https://www.cc.gatech.edu/classes/AY2021/cs7643_spring/assets/L22_SSL_Speech.pdf) |
+| Self Supervised for Speech Processing by Michael Auli | [Slides](https://www.cc.gatech.edu/classes/AY2021/cs7643_spring/assets/L22_SSL_Speech.pdf) |
 
 ## Transducer
 | Source  | Link |
@@ -19,3 +19,4 @@
 
 
 # TTS Learning Resources
+TBU
