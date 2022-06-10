@@ -20,3 +20,9 @@
 
 # TTS Learning Resources
 TBU
+
+
+# Youtube Courses:
+| Source | Link |
+| --- | --- |
+| CMU Multilingual NLP 2022 | https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7 |
